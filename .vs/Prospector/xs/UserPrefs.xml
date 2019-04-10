@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{917EDAD2-4F36-40B4-0863-98675F48D768}|">
+  <MonoDevelop.Ide.ItemProperties.Prospector PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Prospector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Prospector.cs" Line="509" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
